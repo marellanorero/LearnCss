@@ -4,3 +4,8 @@ body {
 .rounded {
 	border-radius: 100%;
 }
+img {
+	height: 180px;
+	width: 180px;
+	/*object-fit: none;*/
+}

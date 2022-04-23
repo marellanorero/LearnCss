@@ -6,3 +6,9 @@
 }
 
 /* YOUR CODE BELOW THIS LINE */
+#my-first-div h2 {
+	font-size: 0.8em;
+}
+#the-second-one h3 {
+	font-size: 0.8em;
+}
